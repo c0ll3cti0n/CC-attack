@@ -193,7 +193,7 @@ referers = [
 	"https://www.bing.com/search?q=",
 	"https://r.search.yahoo.com/",
 ]
-strings = "@#"*₹&':_/-(!?)=+%$€¥[]{}`;÷\¢©®<|§×¶¦>™~^¬°¡¿asdfghjklqwertyuiopZXCVBNMQWERTYUIOPASDFGHJKLzxcvbnm1234567890&"
+strings = "@#*₹&:_/-(!?)=+%$€¥[]{};÷\¢©®<|§×¶¦>™~^¬°¡¿asdfghjklqwertyuiopZXCVBNMQWERTYUIOPASDFGHJKLzxcvbnm1234567890&"
 def cc(socks_type):
 	connection = "Connection: Keep-Alive\r\n"
 	err = 0
